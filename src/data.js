@@ -18,7 +18,7 @@ export const projects = [
         id: 2,
         img: voice,
         name: "Note Taking App",
-        demoLink: "https://wai30yan.github.io/react_joke_app/",
+        demoLink: "https://www.youtube.com/watch?v=xmwuTKNYw1E",
         githubLink: "https://github.com/Wai30Yan/mern_speech_to_text",
         desc: "This is my Engineering Capstone Project and is not fully finished yet. It's a note taking app with Speech Recognition. " +
         "It is a fullstack app developed using MERN stack with REST API. Json Web Token is used in Express server for Authorization and " +
