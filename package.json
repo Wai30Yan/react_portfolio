@@ -1,8 +1,8 @@
 {
-  "homepage": "http://wai30yan.github.io/react_portfolio",
   "name": "react_portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Wai30Yan.github.io/react_portfolio/",
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
     "@react-three/drei": "^8.10.0",
